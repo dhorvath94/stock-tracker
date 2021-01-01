@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+/package-lock.json
+/build/bundle.js
+/build/bundle.js.LICENSE.txt
